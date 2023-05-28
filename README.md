@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danielle Dequin
 - 👀 I’m interested in machine learning for data science applications.
-- 🌱 I’m currently learning software development in java and programming in c.
-- 💞️ I’m looking to collaborate on data analytics projects.
+- 🌱 I’m currently learning DevOps methodologies and software development in Go.
+- 💞️ I’m looking to collaborate on software development and machine learning projects.
 - 📫 How to reach me at https://www.linkedin.com/in/danielle-dequin/
 
 <!---
