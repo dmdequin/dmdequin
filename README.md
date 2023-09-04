@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Danielle Dequin
-- 👀 I’m interested in machine learning for data science applications.
-- 🌱 I’m currently learning DevOps methodologies and software development in Go.
-- 💞️ I’m looking to collaborate on software development and machine learning projects.
+- 👀 I’m interested in developing data science applications that use carbon-conscious machine learning.
+- 🌱 I’m currently working on DevOps and back-end development at [GrabIT](https://www.grabit.io/}).
+- 💞️ I’m looking to collaborate on software development and ML projects.
 - 📫 How to reach me at https://www.linkedin.com/in/danielle-dequin/
+- :fox_face: My GitLab projects can be found [here](https://gitlab.com/dmdequin).
 
 <!---
 dmdequin/dmdequin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
