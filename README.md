@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danielle Dequin
-- 👀 I’m interested in developing data science applications that use carbon-conscious machine learning.
+- 👀 I’m interested in developing data science applications that use carbon-conscious ML.
 - 🌱 I’m currently working on DevOps and back-end development at [GrabIT](https://www.grabit.io/}).
 - 💞️ I’m looking to collaborate on software development and ML projects.
 - 📫 You can reach me via LinkedIn [here](https://www.linkedin.com/in/danielle-dequin/).
